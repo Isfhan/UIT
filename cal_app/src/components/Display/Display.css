@@ -1,0 +1,15 @@
+.display-container {
+    width: 350px;
+    overflow-x: auto;
+}
+
+.display {
+    padding: 20px 5px;
+    text-align: right;
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+    background-color: #000;
+    margin: 5px;
+    color: #fff;
+    font-weight: bold;
+}
